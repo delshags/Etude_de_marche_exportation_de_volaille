@@ -1,7 +1,7 @@
 # Etude de marché exportation de volaille  
 *Ce projet a été réalisé dans le cadre de ma formation chez OpenClassrooms.*       
 
-[=>Presentation CANVA du projet<==](https://www.canva.com/design/DAFcU6w_8jM/JoXwDySb3g3DRGteMvjObA/view?utm_content=DAFcU6w_8jM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+[=>Rapport d'analyse CANVA<==](https://www.canva.com/design/DAFcU6w_8jM/JoXwDySb3g3DRGteMvjObA/view?utm_content=DAFcU6w_8jM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 ### <ins>Contexte</ins>  
 Un client producteur de volaille souhaite trouver de nouveaux clients à l'international. Pour cela, il fait appel à nous pour lui faire une proposition des pays dans lesquelles il serait interessant d'exporter sa vollaile.
