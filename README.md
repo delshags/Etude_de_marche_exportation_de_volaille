@@ -16,7 +16,7 @@ Afin de répondre à la demande du client, nous procèderons ainsi :
 *The analyses performed in this project are in French. If you want a translated version, please contact me on linkedin*
 
 Données : 
-DisponibiliteAlimentaire_2017.csv : La disponibilité alimentaire des produits dans chaques pays
-Population_2000_2018 : le travail s'effectue avec la population de 2017
-Pib_hab : Le pib/hab pour chaque pays
-Stabilité politique
+DisponibiliteAlimentaire_2017.csv : La disponibilité alimentaire des produits dans chaques pays  
+Population_2000_2018 : le travail s'effectue avec la population de 2017  
+Pib_hab : Le pib/hab pour chaque pays  
+Stabilité politique  
