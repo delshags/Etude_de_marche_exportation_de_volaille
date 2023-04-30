@@ -1,5 +1,7 @@
 # Etude de marché exportation de volaille  
-*Ce projet a été réalisé dans le cadre de ma formation chez OpenClassrooms.*
+*Ce projet a été réalisé dans le cadre de ma formation chez OpenClassrooms.*       
+
+[=>Presentation CANVA du projet<==](https://www.canva.com/design/DAFcU6w_8jM/JoXwDySb3g3DRGteMvjObA/view?utm_content=DAFcU6w_8jM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 ### <ins>Contexte</ins>  
 Un client producteur de volaille souhaite trouver de nouveaux clients à l'international. Pour cela, il fait appel à nous pour lui faire une proposition des pays dans lesquelles il serait interessant d'exporter sa vollaile.
@@ -10,7 +12,6 @@ Afin de répondre à la demande du client, nous procèderons ainsi :
 > Réaliser une ACP  
 > Définir des clusters avec K-means et la méthode de classification ascendante hierarchique
 
-[Lien vers la presentation CANVA ==>](https://www.canva.com/design/DAFcU6w_8jM/JoXwDySb3g3DRGteMvjObA/view?utm_content=DAFcU6w_8jM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 *The analyses performed in this project are in French. If you want a translated version, please contact me on linkedin*
 
